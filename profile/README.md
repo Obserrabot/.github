@@ -1,5 +1,16 @@
+<div align="center">
+
+![Obserra Bot Banner](./IMG_0004.png)
+
 # Obserra Bot
 **The Future of Discord Management**
+
+[![Discord](https://img.shields.io/discord/1109907173159579659?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/rgm9WpCuVS)
+[![Website](https://img.shields.io/badge/Website-obserra.net-blue?style=for-the-badge&logo=globe)](https://obserra.net)
+[![Documentation](https://img.shields.io/badge/Docs-docs.obserra.net-green?style=for-the-badge&logo=gitbook)](https://docs.obserra.net)
+[![Dashboard](https://img.shields.io/badge/Dashboard-dashboard.obserra.net-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMgM0gxMVY5SDNWM1oiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMyAzSDIxVjlIMTNWM1oiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0zIDExSDExVjIxSDNWMTFaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTMgMTFIMjFWMjFIMTNWMTFaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)](https://dashboard.obserra.net)
+
+</div>
 
 Revolutionary AI-powered moderation meets intuitive design. Experience the next generation of Discord bot technology with advanced network synchronization and premium features.
 
@@ -39,8 +50,15 @@ Even single servers can benefit from advanced modules without a network.
 ---
 
 ## 📌 Quick Links
-- [Website](https://obserra.net)  
-- [Documentation](https://docs.obserra.net)  
-- [Dashboard / Invite](https://dashboard.obserra.net)  
-- [Discord](https://discord.gg/rgm9WpCuVS)  
-- [Socials](https://obserra.net/socials)
+
+<div align="center">
+
+| Resource | Link |
+|----------|------|
+| 🌐 **Website** | [obserra.net](https://obserra.net) |
+| 📚 **Documentation** | [docs.obserra.net](https://docs.obserra.net) |
+| 🎛️ **Dashboard / Invite** | [dashboard.obserra.net](https://dashboard.obserra.net) |
+| 💬 **Discord Community** | [Join our Discord](https://discord.gg/rgm9WpCuVS) |
+| 📱 **Social Media** | [All Socials](https://obserra.net/socials) |
+
+</div>
